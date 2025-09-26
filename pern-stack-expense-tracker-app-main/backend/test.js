@@ -1,1 +1,0 @@
-const vart= "bhjdghf"
