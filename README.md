@@ -4,9 +4,9 @@
 
 ## 🚀 Deployment
 
-[Live Demo]((https://vikram-0912.github.io/Google-meet-clone/))
+[Live Demo](https://vikram-0912.github.io/Google-meet-clone/)
 
-## Project Overview
+# Project Overview
 
 This project is a Google Meet clone built by [@Vikram-0912](https://github.com/Vikram-0912). It provides real-time video conferencing, chat, screen sharing, and file sharing, using WebRTC and Socket.io for seamless remote collaboration.
 
