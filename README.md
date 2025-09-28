@@ -1,13 +1,13 @@
-# GMeet-Clone
+
+# Google Meet Clone
 
 ## Project Overview
 
-The GMeet-Clone project is a replica of Google Meet, providing real-time video conferencing, chat functionality, screen sharing, and file-sharing capabilities. Developed using WebRTC, this project enables seamless remote collaboration by mimicking the core features of Google Meet.
+This project is a Google Meet clone built by [@Vikram-0912](https://github.com/Vikram-0912). It provides real-time video conferencing, chat, screen sharing, and file sharing, using WebRTC and Socket.io for seamless remote collaboration.
 
-## Project Team
+## Author
 
-- [@SatyamJais10](https://github.com/SatyamJais10)
-- [@sriyareddy23](https://github.com/sriyareddy23)
+- [@Vikram-0912](https://github.com/Vikram-0912)
 
 ## Features
 
@@ -31,12 +31,12 @@ The GMeet-Clone project is a replica of Google Meet, providing real-time video c
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/gmeet-clone.git
+    git clone https://github.com/Vikram-0912/Google-meet-clone.git
     ```
 
 2. **Navigate to the Project Directory**:
     ```bash
-    cd gmeet-clone
+    cd Google-meet-clone
     ```
 
 3. **Install Dependencies**:
@@ -50,7 +50,7 @@ The GMeet-Clone project is a replica of Google Meet, providing real-time video c
     ```
 
 5. **Access the Application**:
-    - Open your browser and navigate to `http://localhost:3000` to start using the GMeet clone.
+    - Open your browser and navigate to `http://localhost:3000` to start using the Google Meet clone.
 
 ## How It Works
 
@@ -61,4 +61,4 @@ The GMeet-Clone project is a replica of Google Meet, providing real-time video c
 
 ## Conclusion
 
-The GMeet-Clone is an excellent example of how real-time communication technologies like WebRTC and Socket.io can be used to build robust video conferencing tools. It provides essential features required for effective remote collaboration, making it a valuable project for learning and development.
+This Google Meet Clone demonstrates how real-time communication technologies like WebRTC and Socket.io can be used to build robust video conferencing tools. It provides all the essential features for effective remote collaboration and is a great project for learning and development.
